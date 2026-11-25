@@ -18,6 +18,8 @@
 
 Csinálja: Vanda
 
+![kezdolap](/webaruhazkepek/kezdolap.drawio.png)
+
 ### Kosár
 
 Csinálja: Vanda
