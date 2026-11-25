@@ -16,18 +16,24 @@
 
 ### Kezdőlap
 
-<img scr="" alt="">
+Csinálja: Vanda
 
 ### Kosár
+
+Csinálja: Vanda
 
 ![kosar](/webaruhazkepek/kosar.drawio.png)
 
 
 ### Termékek
 
+Csinálja: Roli
+
 ![kosar](/webaruhazkepek/publictermek.png)
 
 ### 1 Termék megjelenítés
+
+Csinálja: Roli
 
 ![1termek](/webaruhazkepek/1termek.drawio.png)
 
@@ -35,9 +41,13 @@
 
 ### Termékek
 
+Csinálja: Roli
+
 ![termekek](/webaruhazkepek/termekek.drawio.png)
 
 ### Rendelések
+
+Csinálja: Vanda
 
 ![rendelesek](/webaruhazkepek/rendelesek.drawio.png)
 
