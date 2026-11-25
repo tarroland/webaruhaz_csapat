@@ -14,33 +14,30 @@
 
 ## Publikus
 
-<img scr="" alt="">
-
 ### Kezdőlap
 
 <img scr="" alt="">
 
 ### Kosár
 
-<img scr="" alt="">
+![kosar](/webaruhazkepek/kosar.drawio.png)
+
 
 ### Termékek
 
-<img scr="" alt="">
+![kosar](/webaruhazkepek/publictermek.png)
 
 ### 1 Termék megjelenítés
 
-<img scr="" alt="">
+![1termek](/webaruhazkepek/1termek.drawio.png)
 
 ## Admin
 
-<img scr="" alt="">
-
 ### Termékek
 
-<img scr="" alt="">
+![termekek](/webaruhazkepek/termekek.drawio.png)
 
 ### Rendelések
 
-<img scr="" alt="">
+![rendelesek](/webaruhazkepek/rendelesek.drawio.png)
 
